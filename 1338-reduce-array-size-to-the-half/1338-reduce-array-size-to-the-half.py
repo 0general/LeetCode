@@ -10,7 +10,7 @@ class Solution:
         hap = 0
         for k, v in sorted(numbers.items(), key=lambda x: -x[1]):
             if hap >= length:
-                return result
+                break
             hap += v
             result += 1
         return result
