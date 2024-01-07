@@ -1,5 +1,6 @@
 class Solution:
     def predictTheWinner(self, nums: List[int]) -> bool:
+        # https://leetcode.com/problems/predict-the-winner/discuss/3828913/Python-minimax-solution
         def min_max(sum_, left, right, f_turn=True):
             if left == right:
                 if f_turn:
