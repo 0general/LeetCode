@@ -22,7 +22,7 @@ class Solution:
         for i, d in depth.items():
             dp[d].append((height[i], i))
             dp[d].sort(reverse=True)
-            if len(dp[d]) > 2:
+            if len(dp[d]) > 2: # Timelimit
                 dp[d].pop()
 
         ans = []
