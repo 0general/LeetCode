@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [2465-shifting-letters-ii](https://github.com/0general/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## String
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
