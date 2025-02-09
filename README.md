@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2465-shifting-letters-ii](https://github.com/0general/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 ## Simulation
 |  |
 | ------- |
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/0general/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
