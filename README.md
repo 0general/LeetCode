@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/0general/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1532-reformat-the-string](https://github.com/0general/LeetCode/tree/master/1532-reformat-the-string) |
 | [2465-shifting-letters-ii](https://github.com/0general/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
