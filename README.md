@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/0general/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1532-reformat-the-string](https://github.com/0general/LeetCode/tree/master/1532-reformat-the-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2465-shifting-letters-ii](https://github.com/0general/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
