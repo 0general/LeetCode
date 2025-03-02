@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/0general/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0857-positions-of-large-groups](https://github.com/0general/LeetCode/tree/master/0857-positions-of-large-groups) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/0general/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1532-reformat-the-string](https://github.com/0general/LeetCode/tree/master/1532-reformat-the-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2465-shifting-letters-ii](https://github.com/0general/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/0general/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Tree
 |  |
