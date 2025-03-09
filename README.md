@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/0general/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0657-robot-return-to-origin](https://github.com/0general/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0857-positions-of-large-groups](https://github.com/0general/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/0general/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/0general/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/0general/LeetCode/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
