@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0general/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/0general/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1493-frog-position-after-t-seconds](https://github.com/0general/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/0general/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/0general/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1493-frog-position-after-t-seconds](https://github.com/0general/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Union Find
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1493-frog-position-after-t-seconds](https://github.com/0general/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0general/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/0general/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/0general/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [1493-frog-position-after-t-seconds](https://github.com/0general/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Binary Tree
 |  |
 | ------- |
