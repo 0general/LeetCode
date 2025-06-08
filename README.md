@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/0general/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/0general/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/0general/LeetCode/tree/master/2846-robot-collisions) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/0general/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
