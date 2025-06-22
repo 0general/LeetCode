@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/0general/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2465-shifting-letters-ii](https://github.com/0general/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2846-robot-collisions](https://github.com/0general/LeetCode/tree/master/2846-robot-collisions) |
 ## String
@@ -77,18 +78,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0general/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Sliding Window
 |  |
 | ------- |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/0general/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/0general/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Tree
 |  |
 | ------- |
