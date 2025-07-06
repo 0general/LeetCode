@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2465-shifting-letters-ii](https://github.com/0general/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2846-robot-collisions](https://github.com/0general/LeetCode/tree/master/2846-robot-collisions) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0general/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0general/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/0general/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0general/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
 |  |
 | ------- |
