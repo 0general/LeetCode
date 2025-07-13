@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/0general/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1310-watering-plants](https://github.com/0general/LeetCode/tree/master/1310-watering-plants) |
+| [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1582-design-browser-history](https://github.com/0general/LeetCode/tree/master/1582-design-browser-history) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/0general/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1310-watering-plants](https://github.com/0general/LeetCode/tree/master/1310-watering-plants) |
+| [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [2846-robot-collisions](https://github.com/0general/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/0general/LeetCode/tree/master/1582-design-browser-history) |
+## Matrix
+|  |
+| ------- |
+| [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 <!---LeetCode Topics End-->
