@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/0general/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/0general/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/0general/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/0general/LeetCode/tree/master/1582-design-browser-history) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/0general/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/0general/LeetCode/tree/master/0137-single-number-ii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/0general/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/0general/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Shortest Path
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/0general/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
