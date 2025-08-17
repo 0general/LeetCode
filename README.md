@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1582-design-browser-history](https://github.com/0general/LeetCode/tree/master/1582-design-browser-history) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/0general/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/0general/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/0general/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/0general/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/0general/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/0general/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 ## Greedy
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/0general/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/0general/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1582-design-browser-history](https://github.com/0general/LeetCode/tree/master/1582-design-browser-history) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/0general/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2846-robot-collisions](https://github.com/0general/LeetCode/tree/master/2846-robot-collisions) |
 ## Two Pointers
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/0general/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
