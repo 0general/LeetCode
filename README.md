@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/0general/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/0general/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
+| [2793-count-the-number-of-complete-components](https://github.com/0general/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/0general/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/0general/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
+| [2793-count-the-number-of-complete-components](https://github.com/0general/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2793-count-the-number-of-complete-components](https://github.com/0general/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/0general/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/0general/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2793-count-the-number-of-complete-components](https://github.com/0general/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
 | ------- |
