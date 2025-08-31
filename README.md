@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/0general/LeetCode/tree/master/0051-n-queens) |
 | [0137-single-number-ii](https://github.com/0general/LeetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0general/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/0general/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/0general/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
