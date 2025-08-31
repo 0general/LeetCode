@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0821-bricks-falling-when-hit](https://github.com/0general/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/0general/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1310-watering-plants](https://github.com/0general/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0821-bricks-falling-when-hit](https://github.com/0general/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2793-count-the-number-of-complete-components](https://github.com/0general/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0821-bricks-falling-when-hit](https://github.com/0general/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/0general/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
