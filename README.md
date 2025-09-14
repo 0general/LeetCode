@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/0general/LeetCode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/0general/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0657-robot-return-to-origin](https://github.com/0general/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0857-positions-of-large-groups](https://github.com/0general/LeetCode/tree/master/0857-positions-of-large-groups) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/0general/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/0general/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/0general/LeetCode/tree/master/0127-word-ladder) |
 | [0513-find-bottom-left-tree-value](https://github.com/0general/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/0general/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/0general/LeetCode/tree/master/0127-word-ladder) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/0general/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/0general/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
