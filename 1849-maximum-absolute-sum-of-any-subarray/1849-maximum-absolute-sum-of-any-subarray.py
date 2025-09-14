@@ -4,7 +4,6 @@ class Solution:
         ans = 0
         for x in nums:
             max_end = max(x, max_end + x)
-            ans = max(ans, max_end)
             min_end = min(x, min_end + x)
-            ans = max(ans, -min_end)
+            ans = max(ans, -min_end, max_end)
         return ans
