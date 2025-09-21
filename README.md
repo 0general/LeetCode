@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/0general/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2846-robot-collisions](https://github.com/0general/LeetCode/tree/master/2846-robot-collisions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0general/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/0general/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/0general/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/0general/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/0general/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/0general/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [2846-robot-collisions](https://github.com/0general/LeetCode/tree/master/2846-robot-collisions) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/0general/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting Sort
 |  |
 | ------- |
