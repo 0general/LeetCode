@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/0general/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/0general/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/0general/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/0general/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/0general/LeetCode/tree/master/1532-reformat-the-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/0general/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/0general/LeetCode/tree/master/0127-word-ladder) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/0general/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/0general/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/0general/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/0general/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/0general/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/0general/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/0general/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0general/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
