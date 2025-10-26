@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/0general/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0319-bulb-switcher](https://github.com/0general/LeetCode/tree/master/0319-bulb-switcher) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/0general/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/0general/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/0general/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/0general/LeetCode/tree/master/0051-n-queens) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/0general/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
