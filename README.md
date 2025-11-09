@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/0general/LeetCode/tree/master/0051-n-queens) |
 | [0137-single-number-ii](https://github.com/0general/LeetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0general/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0228-summary-ranges](https://github.com/0general/LeetCode/tree/master/0228-summary-ranges) |
 | [0376-wiggle-subsequence](https://github.com/0general/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
