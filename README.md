@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0821-bricks-falling-when-hit](https://github.com/0general/LeetCode/tree/master/0821-bricks-falling-when-hit) |
+| [0833-bus-routes](https://github.com/0general/LeetCode/tree/master/0833-bus-routes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/0general/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1310-watering-plants](https://github.com/0general/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0general/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/0general/LeetCode/tree/master/0127-word-ladder) |
 | [0513-find-bottom-left-tree-value](https://github.com/0general/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0833-bus-routes](https://github.com/0general/LeetCode/tree/master/0833-bus-routes) |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/0general/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/0general/LeetCode/tree/master/0127-word-ladder) |
+| [0833-bus-routes](https://github.com/0general/LeetCode/tree/master/0833-bus-routes) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/0general/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/0general/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/0general/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
