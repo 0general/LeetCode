@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/0general/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0821-bricks-falling-when-hit](https://github.com/0general/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0833-bus-routes](https://github.com/0general/LeetCode/tree/master/0833-bus-routes) |
+| [0879-maximize-distance-to-closest-person](https://github.com/0general/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/0general/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1310-watering-plants](https://github.com/0general/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
