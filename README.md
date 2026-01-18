@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0general/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/0general/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0513-find-bottom-left-tree-value](https://github.com/0general/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0797-all-paths-from-source-to-target](https://github.com/0general/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/0general/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/0general/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0general/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/0general/LeetCode/tree/master/0127-word-ladder) |
 | [0513-find-bottom-left-tree-value](https://github.com/0general/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0797-all-paths-from-source-to-target](https://github.com/0general/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0833-bus-routes](https://github.com/0general/LeetCode/tree/master/0833-bus-routes) |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/0general/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/0general/LeetCode/tree/master/0051-n-queens) |
+| [0797-all-paths-from-source-to-target](https://github.com/0general/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/0general/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Brainteaser
 |  |
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/0general/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/0general/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
