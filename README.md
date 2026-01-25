@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/0general/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/0general/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/0general/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1848-sum-of-unique-elements](https://github.com/0general/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/0general/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0general/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/0general/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Sliding Window
 |  |
