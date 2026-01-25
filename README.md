@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/0general/LeetCode/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/0general/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/0general/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/0general/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/0general/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1848-sum-of-unique-elements](https://github.com/0general/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/0general/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/0general/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/0general/LeetCode/tree/master/1532-reformat-the-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/0general/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/0general/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/0general/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2032-largest-odd-number-in-string](https://github.com/0general/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/0general/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0general/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/0general/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/0general/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/0general/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/0general/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/0general/LeetCode/tree/master/0561-array-partition) |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/0general/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/0general/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0general/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Search Tree
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/0general/LeetCode/tree/master/0137-single-number-ii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/0general/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/0general/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/0general/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Heap (Priority Queue)
 |  |
