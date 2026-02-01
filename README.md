@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-bricks-falling-when-hit](https://github.com/0general/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0833-bus-routes](https://github.com/0general/LeetCode/tree/master/0833-bus-routes) |
 | [0879-maximize-distance-to-closest-person](https://github.com/0general/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
+| [0892-surface-area-of-3d-shapes](https://github.com/0general/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/0general/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1310-watering-plants](https://github.com/0general/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/0general/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0319-bulb-switcher](https://github.com/0general/LeetCode/tree/master/0319-bulb-switcher) |
+| [0892-surface-area-of-3d-shapes](https://github.com/0general/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/0general/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/0general/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/0general/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0821-bricks-falling-when-hit](https://github.com/0general/LeetCode/tree/master/0821-bricks-falling-when-hit) |
+| [0892-surface-area-of-3d-shapes](https://github.com/0general/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1324-where-will-the-ball-fall](https://github.com/0general/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1396-count-servers-that-communicate](https://github.com/0general/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/0general/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/0general/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/0general/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
